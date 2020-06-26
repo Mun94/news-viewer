@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/news-viewer/static/js/main.07839cc2.chunk.js",
-    "main.js.map": "/news-viewer/static/js/main.07839cc2.chunk.js.map",
+    "main.js": "/news-viewer/static/js/main.cea0120e.chunk.js",
+    "main.js.map": "/news-viewer/static/js/main.cea0120e.chunk.js.map",
     "runtime-main.js": "/news-viewer/static/js/runtime-main.cdcd38ea.js",
     "runtime-main.js.map": "/news-viewer/static/js/runtime-main.cdcd38ea.js.map",
     "static/js/2.fed90979.chunk.js": "/news-viewer/static/js/2.fed90979.chunk.js",
     "static/js/2.fed90979.chunk.js.map": "/news-viewer/static/js/2.fed90979.chunk.js.map",
     "index.html": "/news-viewer/index.html",
-    "precache-manifest.37430425d1aaf614a3533bc557d2b7dc.js": "/news-viewer/precache-manifest.37430425d1aaf614a3533bc557d2b7dc.js",
+    "precache-manifest.398b1a9945b6dc5519910471970d1d7b.js": "/news-viewer/precache-manifest.398b1a9945b6dc5519910471970d1d7b.js",
     "service-worker.js": "/news-viewer/service-worker.js",
     "static/js/2.fed90979.chunk.js.LICENSE.txt": "/news-viewer/static/js/2.fed90979.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cdcd38ea.js",
     "static/js/2.fed90979.chunk.js",
-    "static/js/main.07839cc2.chunk.js"
+    "static/js/main.cea0120e.chunk.js"
   ]
 }
